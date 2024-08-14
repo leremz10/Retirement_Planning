@@ -1,5 +1,7 @@
 Retirement Portfolio Monte Carlo Simulation
+
 Introduction
+
 This project aims to provide a dynamic and probabilistic visualization of an investor's retirement portfolio throughout their lifespan. It is designed for investors who wish to stress-test their retirement strategies and quantify the likelihood of not running out of money during retirement.
 
 Unlike traditional portfolio calculators that use fixed return rates, this project leverages Monte Carlo simulations to generate random return rates that mimic the actual behavior of the market, which historically follows a normal distribution. The model is highly customizable, allowing users to adjust various parameters to reflect their financial situation and retirement goals.
